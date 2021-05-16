@@ -19,3 +19,6 @@ Serviços (filas de trabalho, servidores de cache, motores de busca, etc.)
 Instruções de implantação
 
 ...
+
+
+![rb](https://user-images.githubusercontent.com/66983974/118407962-a0242500-b659-11eb-9ebb-bf7f9aca322c.jpg)
